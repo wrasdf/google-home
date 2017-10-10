@@ -1,6 +1,7 @@
 'use strict';
 
 const utils = require('./utils')
+const request = require('request-promise')
 
 const success_monitor_id = "2115288";
 const failing_monitor_id = "2765304";

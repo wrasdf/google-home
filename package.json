@@ -12,6 +12,7 @@
     "actions-on-google": "^1.4.0",
     "apiai": "^4.0.3",
     "aws-sdk": "^2.130.0",
+    "request-promise": "^4.2.2",
     "serverless": "^1.23.0",
     "uuid": "^3.1.0"
   }
